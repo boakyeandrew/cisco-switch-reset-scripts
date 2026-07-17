@@ -19,6 +19,7 @@ Automates the factory reset process for the Cisco Catalyst 4500-X running classi
 - **Terminal:** SecureCRT (console session)
 - **Platforms:** Cisco NX-OS · Cisco IOS
 - **Editor:** VS Code + Claude Code
+- **Tested on:** Cisco N9K-C9348GC-FXP (NX-OS) · Cisco WS-C4500X-16 (IOS)
 
 ---
 
